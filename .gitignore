@@ -1,0 +1,11 @@
+# Ignorer les dossiers d'IDE
+.idea/
+.vscode/
+
+# Ignorer les fichiers système
+.DS_Store
+Thumbs.db
+
+# SURTOUT NE PAS IGNORER
+!.env.example
+!.gitignore
